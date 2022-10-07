@@ -42,7 +42,7 @@
 5. Operate
 6. Continuous Feedback
 
-<img src="../images/DevOps_Cycle.png" alt="DevOps Cycle" width="200"/>
+<img src="../images/DevOps_Cycle.png" alt="DevOps Cycle" width="500"/>
 
 # Agile 
 ### Agile principles
