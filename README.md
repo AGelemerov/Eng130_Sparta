@@ -34,7 +34,7 @@
   - Don't put too much text or too many diagrams on the slides
     - We don't want to distract our audience
 
-<img src="../images/dos_and_donts_presentation.png" title="DevOps Cycle" alt="DevOps_Cycle" height="500"/>
+<img src="../images/dos_and_donts_presentation.png" title="DevOps Cycle" alt="DevOps_Cycle" height="800"/>
 
 
 # DevOps
@@ -48,7 +48,7 @@
 5. Operate
 6. Continuous Feedback
 
-<img src="../images/DevOps_Cycle.png" title="DevOps Cycle" alt="DevOps_Cycle" width="800"/>
+<img src="../images/DevOps_Cycle.png" title="DevOps Cycle" alt="DevOps_Cycle" width="600"/>
 
 
 # Agile 
@@ -61,7 +61,7 @@
 * Agile is a methodology used in development
 * It is an iterative approach to delivering a project, focusing on continuous realeases that incorporate customer feedback
 
-<img src="../images/agile_waterfall.png" title="DevOps Cycle" alt="DevOps_Cycle" width="800"/>
+<img src="../images/agile_waterfall.png" title="DevOps Cycle" alt="DevOps_Cycle" width="600"/>
 
 
 # Scrum
@@ -74,4 +74,4 @@
 - Short iteration help reduce risk and costs for the client, get fast feedback from customers, see value quicker
 - Milestones come at the end of a sprint/iteration which give the development team a sense of achievement and progress made
 
-<img src="../images/scrum_sprint_cycle.png" title="DevOps Cycle" alt="DevOps_Cycle" width="800"/>
+<img src="../images/scrum_sprint_cycle.png" title="DevOps Cycle" alt="DevOps_Cycle" width="600"/>
