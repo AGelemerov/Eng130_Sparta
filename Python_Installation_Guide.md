@@ -1,6 +1,6 @@
 # Installation - Windows 10
 1. Go to https://www.python.org/downloads/
-2. Download the installer for whichever operating system you have.
+2. Download the installer for the latest version of Windows
 3. Follow the installation wizard until you get to a menu where you have to select checkboxes.
 4. Make sure "Association with .py files" is checked.
 5. Make sure "Add python to PATH variable" is also checked.
