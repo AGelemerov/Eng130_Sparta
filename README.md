@@ -37,12 +37,12 @@
 #### Consists of six phases
 1. Plan
 2. Build
+                                                                  <img src="../images/DevOps_Cycle.png" alt="DevOps Cycle" width="500"/>
 3. Continuous integration and delivery
 4. Monitor and alert
 5. Operate
 6. Continuous Feedback
 
-<img src="../images/DevOps_Cycle.png" alt="DevOps Cycle" width="500"/>
 
 # Agile 
 ### Agile principles
