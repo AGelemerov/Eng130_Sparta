@@ -13,7 +13,6 @@
 - Sound professional
 - Don't swing on your chair
 - Don't be phased if you forget something, they don't know you forgot it
-- 
 
 # Presentations
 ### Do's:
