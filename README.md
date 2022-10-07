@@ -31,6 +31,16 @@
   - Don't put too much text or too many diagrams on the slides
     - We don't want to distract our audience
 
+# DevOps
+- DevOps is a set of practices, tools, and a cultural philosophy that automate and integrate the processes between software development and IT teams. It emphasizes team empowerment, cross-team communication and collaboration, and technology automation.
+### DevOps lifecycle
+#### Consists of six phases
+1. Plan
+2. Build
+3. Continuous integration and delivery
+4. Monitor and alert
+5. Operate
+6. Continuous Feedback
     
 # Agile 
 ### Agile principles
