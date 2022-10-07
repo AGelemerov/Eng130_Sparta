@@ -42,7 +42,7 @@
 5. Operate
 6. Continuous Feedback
     
-![DevOps Lifecycle](../images/DevOps_Cycle.png)
+![DevOps Lifecycle](../images/DevOps_Cycle.png | width = 400)
 # Agile 
 ### Agile principles
 - An agile project is segmented into several incremental steps that include regular feedback intervals.
