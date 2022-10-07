@@ -14,6 +14,9 @@
 - Don't swing on your chair
 - Don't be phased if you forget something, they don't know you forgot it
 
+<img src="../images/elevator_pitch.png" title="DevOps Cycle" alt="DevOps_Cycle" height="500"/>
+
+
 # Presentations
 ### Do's:
 - Smile
@@ -31,6 +34,9 @@
   - Don't put too much text or too many diagrams on the slides
     - We don't want to distract our audience
 
+<img src="../images/dos_and_donts_presentation.png" title="DevOps Cycle" alt="DevOps_Cycle" height="500"/>
+
+
 # DevOps
 - DevOps is a set of practices, tools, and a cultural philosophy that automate and integrate the processes between software development and IT teams. It emphasizes team empowerment, cross-team communication and collaboration, and technology automation.
 ### DevOps lifecycle
@@ -44,6 +50,7 @@
 
 <img src="../images/DevOps_Cycle.png" title="DevOps Cycle" alt="DevOps_Cycle" width="800"/>
 
+
 # Agile 
 ### Agile principles
 - An agile project is segmented into several incremental steps that include regular feedback intervals.
@@ -54,6 +61,9 @@
 * Agile is a methodology used in development
 * It is an iterative approach to delivering a project, focusing on continuous realeases that incorporate customer feedback
 
+<img src="../images/agile_waterfall.png" title="DevOps Cycle" alt="DevOps_Cycle" width="800"/>
+
+
 # Scrum
 - An agile project management framework used to develop, deliver and sustain products
 - Continuously shipping value to customers
@@ -63,3 +73,5 @@
   - Allows for higher quality work delivered more frequently, while giving more flexibility to adapt and change
 - Short iteration help reduce risk and costs for the client, get fast feedback from customers, see value quicker
 - Milestones come at the end of a sprint/iteration which give the development team a sense of achievement and progress made
+
+<img src="../images/scrum_sprint_cycle.png" title="DevOps Cycle" alt="DevOps_Cycle" width="800"/>
